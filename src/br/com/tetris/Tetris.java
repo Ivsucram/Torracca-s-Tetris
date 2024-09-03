@@ -13,7 +13,7 @@ public class Tetris extends JFrame {
     private final int ORIGINAL_PERIOD_INTERVAL = 300;
 
     public Tetris() {
-        setTitle("Tetris Legal");
+        setTitle("Cool Ugly Tetris");
         setSize(400, 800);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
